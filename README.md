@@ -26,4 +26,4 @@
 
       HibernateSessionFactoryUtil        Настройка HibernateSessionFactoryUtil
 	  JerseyConfig                       Настрйока JerseyConfig
-	  RoomResource						 Сам класс с методами API
+	  RoomResource                       Сам класс с методами API
